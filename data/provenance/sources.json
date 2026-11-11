@@ -1,0 +1,26 @@
+[
+  {
+    "provider": "Filipe Macedo",
+    "dataset": "filipechavesdemacedo/counter-strike-competitive-data",
+    "version": 1,
+    "license": "CC-BY-4.0",
+    "source_url": "https://www.kaggle.com/datasets/filipechavesdemacedo/counter-strike-competitive-data",
+    "verification": "All three local files matched downloaded archive SHA-256 on 2026-11-10",
+    "files": {
+      "match_players.csv": "e2a1b8293e14149c506ce531137601c0a16ce7232b8ee7e2e8ef63cff63f4849",
+      "match_results.csv": "93ec075bd2ffef740ceb2f78e5c693216738d68c675ef14a8d7888e2080e1aa0",
+      "players_stats.csv": "4523f9ab6f30c507397b90ebd4bf980c751b4d73faa5e4b8c833f684a3b71073"
+    }
+  },
+  {
+    "provider": "Maxim (ektarr)",
+    "dataset": "ektarr/counter-strike-pro-matches",
+    "version": 10,
+    "license": "CC-BY-SA-4.0",
+    "source_url": "https://www.kaggle.com/datasets/ektarr/counter-strike-pro-matches",
+    "raw_sha256": "24f066d3dcfa774f6b90e960c68c972a239e73f1d8eff911beec430833c4b3f8",
+    "map_rows": 543,
+    "excluded_series_totals": true,
+    "player_id_namespace": "provider-specific; 26 is not HLTV ID 3741"
+  }
+]

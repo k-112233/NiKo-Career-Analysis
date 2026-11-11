@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "snapshot_date": "2026-11-10",
+  "rows": 2030,
+  "date_min": "2015-04-17",
+  "date_max": "2026-11-04",
+  "latest_verified_date": "2026-11-04",
+  "snapshot_sha256": "86cd4b365a1d69fb7256ca3df7b33e8fda3c0d8b408003405e56a34793a3fd73",
+  "complete_career": false,
+  "known_gaps": [
+    "sparse 2021–2023 secondary coverage; late CS:GO 2023 after June 10",
+    "early G2 CS2 before 2023-11-30 and provider omissions",
+    "provider omissions and 11 quarantined history observations"
+  ],
+  "excluded_candidate": "Kaggle griffindesroches: historical rows contain scrape-time roster/player averages; not per-match NiKo data",
+  "team_map_counts": {
+    "FaZe": 799,
+    "Falcons": 381,
+    "G2": 478,
+    "mousesports": 372
+  },
+  "cs2_map_counts": {
+    "Falcons": 381,
+    "G2": 195
+  },
+  "rated_cs2_maps": 265,
+  "source_audit": "data/provenance/sources.json"
+}

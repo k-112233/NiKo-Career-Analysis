@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+niko_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Data
+data/raw/
+
+# Database
+*.db
+*.sqlite
+dist/
+.venv/
+.env
+.env.*
+node_modules/
+
+.build/
+.venv-*/
