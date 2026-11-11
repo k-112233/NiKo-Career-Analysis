@@ -5,7 +5,7 @@ Python / pandas / SQLite / offline dashboard
 
 以 Nikola “NiKo” Kovač 为核心，分析生涯阶段、地图表现与胜负关联。项目交付包含可复现数据管道、来源审计、中文分析报告和离线交互看板。
 
-[分析报告](reports/analysis.md) · [交互看板](dashboard/index.html) · [数据来源](docs/sources.md) · [v1 发布说明](CHANGELOG.md)
+[分析报告](reports/analysis.md) · [在线交互看板](https://k-112233.github.io/NiKo-Career-Analysis/) · [数据来源](docs/sources.md) · [v1 发布说明](CHANGELOG.md)
 
 ![Dashboard preview](docs/images/dashboard-desktop.png)
 
